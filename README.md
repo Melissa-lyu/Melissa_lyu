@@ -1,4 +1,4 @@
-# Melissa_Lyu
+# Hello, I am Melissa
 👩🏻‍💻 I'm interested in Machine Learning & AI Product Management.<br>
 ✏️ I’m currently  studying at UofT in the MIE program.<br>
 📫 My Email: ziyu.lyu@mail.utoronto.ca<br>
